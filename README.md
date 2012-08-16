@@ -15,9 +15,8 @@ A platform-independent Github notifier
 * cx-Freeze 4.3
 
 # How to Build
-```python build.py 
-```
 This command automatically builds meow depending on the host OS
+    python build.py 
 
 # Troubleshooting
 ## Mac OS X
