@@ -14,6 +14,11 @@ A platform-independent Github notifier
 * PySide 1.1.1
 * cx-Freeze 4.3
 
+# How to Build
+```python build.py 
+```
+This command automatically builds meow depending on the host OS
+
 # Troubleshooting
 ## Mac OS X
 cx-Freeze seems to have some problems when freezing Python scripts on Mac OS X
