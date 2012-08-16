@@ -1,4 +1,5 @@
 *.py[co]
+.DS_STORE
 
 # Packages
 *.egg
@@ -7,7 +8,7 @@ dist
 build
 eggs
 parts
-bin
+# bin
 var
 sdist
 develop-eggs
