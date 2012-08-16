@@ -15,7 +15,7 @@ A platform-independent Github notifier
 * cx-Freeze 4.3
 
 # Troubleshooting
-## Mac
+## Mac OS X
 cx-Freeze seems to have some problems when freezing Python scripts on Mac OS X
 Please edit the macdist.py file as below
 
