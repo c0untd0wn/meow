@@ -10,8 +10,8 @@ base = None
 if sys.platform == "win32":
     base = "Win32GUI"
 
-setup(  name = "meow",
+setup(  name = "Meow",
         version = "0.1",
-        description = "My GUI application!",
+        description = "A platform-independent Github notifier",
         options = {"build_exe": build_exe_options},
         executables = [Executable("meow.py", base=base)])
